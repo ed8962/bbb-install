@@ -83,7 +83,7 @@ HERE
 
 main() {
   export DEBIAN_FRONTEND=noninteractive
-  PACKAGE_REPOSITORY=https://www.github.com/ed8962/bbbconfigd
+  PACKAGE_REPOSITORY=https://github.com/ed8962/bigbluebutton
   LETS_ENCRYPT_OPTIONS="--webroot --non-interactive"
   SOURCES_FETCHED=false
 
